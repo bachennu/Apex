@@ -1,0 +1,6 @@
+public class GitExample{
+
+  public void main(){
+    System.debug('This is sample');
+  }
+}
